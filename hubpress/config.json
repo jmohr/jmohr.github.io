@@ -5,7 +5,10 @@
     "branch": "master",
     "cname": "justy.io"
   },
-  "site": {},
+  "site": {
+    "title": "justy.io",
+    "description": "Justin's personal junk goes in here."
+  },
   "socialnetwork": {
     "email": "jm@justy.io",
     "twitter": "justyio",
