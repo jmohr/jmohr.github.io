@@ -1,7 +1,0 @@
-= Aloha
-
-== what the heck
-
-This is a rad new blog, dudes. I'm testing this out. Why isn't it working?
-
-== WHY ISN'T IT WORKING?!
