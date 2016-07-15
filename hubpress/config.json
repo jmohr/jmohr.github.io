@@ -11,9 +11,9 @@
   },
   "socialnetwork": {
     "email": "jm@justy.io",
-    "twitter": "justyio",
-    "linkedin": "jmohr",
-    "github": "jmohr"
+    "twitter": "https://twitter.com/justyio",
+    "linkedin": "https://linkedin.com/profile/jmohr",
+    "github": "https://github.com/jmohr"
   },
   "theme": {
     "name": "uno"
