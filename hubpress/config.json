@@ -6,7 +6,12 @@
     "cname": "justy.io"
   },
   "site": {},
-  "socialnetwork": {},
+  "socialnetwork": {
+    "email": "jm@justy.io",
+    "twitter": "justyio",
+    "linkedin": "jmohr",
+    "github": "jmohr"
+  },
   "theme": {
     "name": "casper"
   }
