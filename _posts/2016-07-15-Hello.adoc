@@ -1,9 +1,0 @@
-:hide-uri-scheme:
-
-= Hello
-
-==== This is my bloggle
-
-Boggle your mind with my bloggle, doggle. I'll probably put something on here at some point, but mostly I just keep changing to different blog software and never actually posting anything. This time around I'm trying http://hubpress.io. It's kinda neat, but kinda janky.
-
-Before this, I was using Jekyll, which is also kinda neat but kinda janky. HubPress is built with Jekyll, but it's a bit easier to publish articles and junk.
