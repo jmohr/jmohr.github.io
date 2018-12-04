@@ -1,0 +1,7 @@
+# A Little Bit About Me
+
+:hp-tags: about
+
+Hello, and welcome to my tiny website! I'm a professional software engineer, with a broad background in engineering and ops. Recently, I've mostly been working with Java and other JVM languages in large enterprise environments, but I also have experience with languages like Python, Ruby, and Rust.
+
+I've held a pretty wide range of jobs in the past 15+ years, from UNIX sysadmin to network engineer to Java developer to QA engineer... and everything in between. I have a passion for new technologies, and I am never afraid to jump in and take on the toughest projects, and deliver results every time. I've worked in enterprise datacenter environments, done network engineering for mission critical systems, provided IT support in small and mid-sized corporate environments, developed complex ajax-based web applications, and created custom QA test harnesses for distributed java applications. Currently, I am a Senior Developer at United Healthcare, developing big-data systems using Hadoop, to do real-time analysis. For more info, please check out my https://www.linkedin.com/in/justinmohr/[LinkedIn profile].
